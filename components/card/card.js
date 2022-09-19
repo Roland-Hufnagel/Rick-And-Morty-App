@@ -24,3 +24,4 @@ export function createCharacterCard(name, imgSrc, status, type, occurences) {
     `;
     return li;
 }
+
